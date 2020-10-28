@@ -1,0 +1,290 @@
+body {
+	width: 100vw;
+	height:100vh;
+}
+
+
+.background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("daniel.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	position: absolute;
+	font-family: 'Space Mono', monospace;
+	font-size: 140px;
+	font-weight: 400;
+	top: 135px;
+	left: 40px;
+	color: rgb(210, 160, 110);
+
+}
+
+.daniel {
+	position: absolute;
+	font-family: 'Space Mono', monospace;
+	font-size: 50px;
+	font-weight: 400;
+	top: 70px;
+	left: 50px;
+	color: rgb(250, 50, 60);
+
+}
+
+.venue {
+	position: absolute;
+	font-family: 'Space Mono', monospace;
+	font-size: 20px;
+	font-weight: 400;
+	top: 405px;
+	left: 50px;
+	color: rgb(0, 0, 0);
+}
+
+.location {
+	position: absolute;
+	font-family: 'Space Mono', monospace;
+	font-size: 20px;
+	font-weight: 400;
+	top: 430px;
+	left: 50px;
+	color: rgb(0, 0, 0);
+}
+
+.price {
+	position: absolute;
+	font-family: 'Space Mono', monospace;
+	font-size: 20px;
+	font-weight: 400;
+	top: 455px;
+	left: 50px;
+	color: rgb(0, 0, 0);
+}
+
+.date {
+	position: absolute;
+	font-family: 'Space Mono', monospace;
+	font-size: 20px;
+	font-weight: 400;
+	top: 620px;
+	left: 50px;
+	color: rgb(250, 50, 60);
+}
+
+.time {
+	position: absolute;
+	font-family: 'Space Mono', monospace;
+	font-size: 20px;
+	font-weight: 400;
+	top: 620px;
+	left: 1150px;
+	color: rgb(250, 50, 60);
+}
+
+.line {
+  height:50px;
+  width:1.2px;
+  background-color: rgb(250, 50, 60);
+  position: absolute;
+  top: 567px;
+  left: 1392px;
+  transition: background-color 1s;
+}
+
+.line2 {
+  height:48px;
+  width:1.2px;
+  background-color: rgb(250, 50, 60);
+  position: absolute;
+  top: 120px;
+  left: 54px;
+  transition: background-color 1s;
+}
+
+
+.line4 {
+  height:48px;
+  width:1.2px;
+  background-color: rgb(250, 50, 60);
+  position: absolute;
+  top: 570px;
+  left: 54px;
+  transition: background-color 1s;
+}
+
+.line5 {
+  height:40px;
+  width:1.2px;
+  background-color: rgb(250, 50, 60);
+  position: absolute;
+  top: 70px;
+  left: 1372px;
+  transform: rotate(90deg);
+  transition: background-color 1s;
+}
+
+.line6 {
+  height:40px;
+  width:1.2px;
+  background-color: rgb(250, 50, 60);
+  position: absolute;
+  top: 90px;
+  left: 1392px;
+  transition: background-color 1s;
+}
+
+.box:hover{
+	opacity: 0;
+}
+
+.box2:hover{
+	opacity: 0;
+}
+.box3:hover{
+	opacity: 0;
+}
+
+
+.box {
+  height:213px;
+  width:21px;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  top: 318px;
+  left: 144px;
+  transform: rotate(90deg);
+  transition: background-color 1s ease-in;
+}
+
+.box2 {
+  height:160px;
+  width:21px;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  top: 370px;
+  left: 117.5px;
+  transform: rotate(90deg);
+  transition: background-color 1s ease-in;
+}
+
+.box3 {
+  height:221px;
+  width:21px;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  top: 364px;
+  left: 149px;
+  transform: rotate(90deg);
+  transition: background-color 1s ease-in;
+}
+
+@media (max-width: 815px) {
+	h1 {
+		font-size:95px;
+		line-height: 1.1;
+	}
+	.daniel {
+		font-size:30px;
+		top: 175px;
+		left: 38px;
+	}
+	.venue {
+		font-size:18px;
+		top: 580px;
+	}
+	.location {
+		font-size:18px;
+		top: 600px;
+	}
+	.price {
+		font-size:18px;
+		top: 620px;
+	}
+	.date {
+		font-size: 15px;
+		top: 750px;
+	}
+	.time {
+		font-size: 15px;
+		top: 770px;
+	}
+}
+
+
+@media (max-width: 375px) {
+	h1 {
+		font-size:95px;
+		line-height: 1;
+		top: 200px;
+		color: rgb(250, 50, 60);
+		left: 30px;
+	}
+	.daniel {
+		font-size:27px;
+		top: 235px;
+		left: 50px;
+		color: rgb(250, 50, 60);
+		left: 40px;
+	}
+
+	.venue {
+		font-size:20px;
+		top: 600px;
+		left: 80px;
+	}
+	.location {
+		font-size:20px;
+		top: 625px;
+		left: 80px;
+	}
+	.price {
+		font-size:20px;
+		top: 675px;
+		left: 80px;
+	}
+	.date {
+		font-size: 15px;
+		top: 80px;
+		color: rgb(0, 0, 0);
+		
+	}
+	.time {
+		font-size: 15px;
+		top: 100px;
+		left: 50px;
+		color: rgb(0, 0, 0);
+	
+	}
+
+	.box {
+		opacity: 0;
+	}
+	.box2 {
+		opacity: 0;
+	}
+	.box3 {
+		opacity: 0;
+	}
+
+	.line {
+		opacity: 0;
+	}
+	.line4 {
+		opacity: 0;
+	}
+	.line5 {
+		opacity: 0;
+	}
+	.line6 {
+		opacity: 0;
+	}
+}
+
+
+
