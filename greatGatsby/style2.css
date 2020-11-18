@@ -1,0 +1,1087 @@
+
+.cover1:hover {
+  transform: scale(1.03);
+}
+
+.cover2:hover {
+  transform: scale(1.03);
+}
+
+.cover3:hover {
+  transform: scale(1.03);
+}
+
+.cover4:hover {
+  transform: scale(1.03);
+}
+
+.cover5:hover {
+  transform: scale(1.03);
+}
+
+.cover6:hover {
+  transform: scale(1.03);
+}
+
+.cover7:hover {
+  transform: scale(1.03);
+}
+
+.cover8:hover {
+  transform: scale(1.03);
+}
+.cover9:hover {
+  transform: scale(1.03);
+}
+
+.cover10:hover {
+  transform: scale(1.03);
+}
+
+.cover11:hover {
+  transform: scale(1.03);
+}
+
+.cover12:hover {
+  transform: scale(1.03);
+}
+
+.cover13:hover {
+  transform: scale(1.03);
+}
+
+.cover14:hover {
+  transform: scale(1.03);
+}
+
+.cover15:hover {
+  transform: scale(1.03);
+}
+
+.cover16:hover {
+  transform: scale(1.03);
+}
+
+.cover17:hover {
+  transform: scale(1.03);
+}
+
+.cover18:hover {
+  transform: scale(1.03);
+}
+
+.cover19:hover {
+  transform: scale(1.03);
+}
+
+.cover20:hover {
+  transform: scale(1.03);
+}
+
+.cover21:hover {
+  transform: scale(1.03);
+}
+
+.cover22:hover {
+  transform: scale(1.03);
+}
+
+.cover23:hover {
+  transform: scale(1.03);
+}
+
+.cover24:hover {
+  transform: scale(1.03);
+}
+.cover25:hover {
+  transform: scale(1.03);
+}
+
+.cover26:hover {
+  transform: scale(1.03);
+}
+
+.cover27:hover {
+  transform: scale(1.03);
+}
+
+.cover28:hover {
+  transform: scale(1.03);
+}
+
+.cover29:hover {
+  transform: scale(1.03);
+}
+
+.cover30:hover {
+  transform: scale(1.03);
+}
+
+
+
+.background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 1275px;
+	background-image: url("images/background.jpg");
+	background-size: cover;
+	background-repeat: repeat;
+	opacity:0.03;
+}
+
+.line2 {
+  height:0.2px;
+  width:1310px;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  top: 90px;
+  left: 60px;
+}
+
+.ALLcovers {
+	left: 100px;
+}
+
+.cover2 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover2.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 140px;
+ 	left: 130px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover2:after{
+  content:"1925";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover2:hover:after{
+  opacity:1;
+}
+
+.cover3 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover12.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 140px;
+ 	left: 300px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover3:after{
+  content:"1970";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover3:hover:after{
+  opacity:1;
+}
+
+.cover4 {
+	height:230px;
+	width:150px;
+  	background-image: url("images/tggCover6.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 470px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover4:after{
+  content:"1967";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover4:hover:after{
+  opacity:1;
+}
+
+.cover5 {
+	height:230px;
+	width:150px;
+  	background-image: url("images/tggCover10.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 641px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover5:after{
+  content:"2015";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover5:hover:after{
+  opacity:1;
+}
+
+.cover6 {
+	height:230px;
+	width:150px;
+  	background-image: url("images/tggCover9.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 808px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover6:after{
+  content:"1965";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover6:hover:after{
+  opacity:1;
+}
+
+
+.cover7 {
+	height:230px;
+	width:150px;
+  	background-image: url("images/tggCover14.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 977px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover7:after{
+  content:"1985";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover7:hover:after{
+  opacity:1;
+}
+
+
+
+
+
+.cover1 {
+	height:230px;
+	width:150px;
+  	background-image: url("images/tggCover1.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 390px;
+ 	left: 130px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover1:after{
+  content:"1953";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover1:hover:after{
+  opacity:1;
+}
+
+
+.cover8 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover8.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 390px;
+ 	left: 300px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover8:after{
+  content:"1959";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover8:hover:after{
+  opacity:1;
+}
+
+
+.cover9 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover27.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 390px;
+ 	left: 471px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover9:after{
+  content:"1957";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover9:hover:after{
+  opacity:1;
+}
+
+.cover16 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover28.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 390px;
+ 	left: 641px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover16:after{
+  content:"2010";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover16:hover:after{
+  opacity:1;
+}
+
+
+.cover17 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover30.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 390px;
+ 	left: 810px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover17:after{
+  content:"1942";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover17:hover:after{
+  opacity:1;
+}
+
+
+.cover18 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover29.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 390px;
+ 	left: 978px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover18:after{
+  content:"1950";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover18:hover:after{
+  opacity:1;
+}
+
+
+
+.cover10 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover13.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 645px;
+ 	left: 130px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover10:after{
+  content:"1938";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover10:hover:after{
+  opacity:1;
+}
+
+
+.cover11 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover21.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 645px;
+ 	left: 300px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover11:after{
+  content:"1990";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover11:hover:after{
+  opacity:1;
+}
+
+
+.cover12 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover23.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 645px;
+ 	left: 470px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover12:after{
+  content:"1966";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover12:hover:after{
+  opacity:1;
+}
+
+
+.cover13 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover24.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 645px;
+ 	left: 640px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover13:after{
+  content:"1942";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover13:hover:after{
+  opacity:1;
+}
+
+
+.cover14 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover25.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 645px;
+ 	left: 808px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover14:after{
+  content:"1973";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover14:hover:after{
+  opacity:1;
+}
+
+
+.cover15 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover26.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 645px;
+ 	left: 977px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover15:after{
+  content:"2013";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover15:hover:after{
+  opacity:1;
+}
+
+
+
+
+
+.cover20 {
+	height:230px;
+	width:150px;
+  background-image: url("images/tggCover11.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 897px;
+ 	left: 130px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover20:after{
+  content:"2006";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover20:hover:after{
+  opacity:1;
+}
+
+
+.cover21 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover17.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 897px;
+ 	left: 300px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover21:after{
+  content:"2015";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover21:hover:after{
+  opacity:1;
+}
+
+
+.cover22 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover19.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 897px;
+ 	left: 470px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover22:after{
+  content:"1954";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover22:hover:after{
+  opacity:1;
+}
+
+
+.cover23 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover20.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 897px;
+ 	left: 640px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover23:after{
+  content:"2016";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover23:hover:after{
+  opacity:1;
+}
+
+
+.cover24 {
+	height:230px;
+	width:150px;
+  background-image: url("images/tggCover3.jpg");
+  background-size: cover;
+ 	position: absolute;
+  top: 897px;
+ 	left: 808px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover24:after{
+  content:"1993";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover24:hover:after{
+  opacity:1;
+}
+
+
+.cover25 {
+	height:230px;
+	width:150px;
+	background-image: url("images/tggCover22.jpg");
+	background-size: cover;
+ 	position: absolute;
+	top: 897px;
+ 	left: 977px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cover25:after{
+  content:"1933";
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  line-height: 230px;
+  opacity:0;
+}
+
+.cover25:hover:after{
+  opacity:1;
+}
+
+
+h1 {
+	position: absolute;
+	font-family: typeka, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	top: 45px;
+	left: 610px;
+	width: 200px;
+	color: rgb(0, 0, 0);
+}
+
+
+h2 {
+	position: absolute;
+	font-family: professor, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 18px;
+	top: 22px;
+	left: 650px;
+	width: 200px;
+	color: rgb(0, 0, 0);
+}
+
+h3 {
+	position: absolute;
+	font-family: typeka, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 13px;
+	top: 55px;
+	left: 1200px;
+	width: 200px;
+	color: rgb(0, 0, 0);
+}
+
+a {
+	left: 1000px;
+	background-color: red;
+
+}
+
+
+h4 {
+  position: absolute;
+  font-family: professor, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  top: 210px;
+  left: 1200px;
+  width: 100px;
+  text-align: center;
+  line-height: 1;
+  color: rgb(0, 0, 0);
+}
+
+h5 {
+  position: absolute;
+  font-family: professor, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  top: 420px;
+  left: 1200px;
+  width: 100px;
+  text-align: center;
+  line-height: 1;
+  color: rgb(0, 0, 0);
+}
+
+h6 {
+  position: absolute;
+  font-family: professor, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  top: 670px;
+  left: 1195px;
+  width: 100px;
+  text-align: center;
+  line-height: 1;
+  color: rgb(0, 0, 0);
+}
+
+.black {
+  position: absolute;
+  font-family: professor, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  top: 950px;
+  left: 1195px;
+  width: 100px;
+  text-align: center;
+  line-height: 1;
+  color: rgb(0, 0, 0);
+
+}
+
+.collapse {
+  position: absolute;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  top: 60px;
+  left: 170px;
+  width: 200px;
+  color: rgb(0, 0, 0);
+}
+
+.shop {
+  position: absolute;
+  font-family: typeka, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+  top: 60px;
+  left: 1290px;
+  width: 200px;
+  color: rgb(0, 0, 0);
+}
+
+
+.glasses {
+  height:17px;
+  width: 50px;
+  background-image: url("images/glasses.jpg");
+  background-size: cover;
+  position: absolute;
+  top: 61px;
+  left: 105px;
+  transition: background-color 1s;
+}
+
+.box {
+  position: absolute;
+  height:100px;
+  width: 100px;
+  background-color: rgb(200,0,0);
+  top: 1200px;
+  left: 500px;
+  opacity: 0;
+}
+

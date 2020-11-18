@@ -1,0 +1,628 @@
+
+
+.background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("images/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity:0.03;
+}
+
+.glasses {
+	height:17px;
+	width: 50px;
+  	background-image: url("images/glasses.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 61px;
+ 	left: 105px;
+  	transition: background-color 1s;
+}
+
+
+.line2 {
+  height:0.2px;
+  width:1310px;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  top: 90px;
+  left: 60px;
+}
+
+.cover1:hover {
+	transform: scale(1.03);
+}
+
+.cover2:hover {
+	transform: scale(1);
+	left: 680px;
+	transform: rotate(-1.7deg);
+}
+
+.cover3:hover {
+	transform: scale(1);
+	left:670px;
+	transform: rotate(-1.7deg);
+}
+
+.cover4:hover {
+	transform: scale(1);
+	left:640px;
+	transform: rotate(-1.7deg);
+}
+
+.cover5:hover {
+	transform: scale(1);
+	left:610px;
+	transform: rotate(-1.7deg);
+}
+
+.cover6:hover {
+	transform: scale(1);
+	left:580px;
+	transform: rotate(-1.7deg);
+}
+
+.cover7:hover {
+	transform: scale(1);
+	left:550px;
+	transform: rotate(-1.7deg);
+}
+
+.cover8:hover {
+	transform: scale(1);
+	left:520px;
+	transform: rotate(-1.7deg);
+}
+.cover9:hover {
+	transform: scale(1);
+	left:490px;
+	transform: rotate(-1.7deg);
+}
+
+.cover10:hover {
+	transform: scale(1);
+	left:460px;
+	transform: rotate(-1.7deg);
+}
+
+.cover11:hover {
+	transform: scale(1);
+	left:430px;
+	transform: rotate(-1.7deg);
+}
+
+.cover12:hover {
+	transform: scale(1);
+	left:400px;
+	transform: rotate(-1.7deg);
+}
+
+.cover13:hover {
+	transform: scale(1);
+	left:370px;
+	transform: rotate(-1.7deg);
+}
+
+.cover14:hover {
+	transform: scale(1);
+	left:340px;
+	transform: rotate(-1.7deg);
+}
+
+.cover15:hover {
+	transform: scale(1);
+	left:310px;
+	transform: rotate(-1.7deg);
+}
+
+.cover16:hover {
+	transform: scale(1);
+	left:280px;
+	transform: rotate(-1.7deg);
+}
+
+.cover17:hover {
+	transform: scale(1);
+	left:250px;
+	transform: rotate(-1.7deg);
+}
+
+.cover18:hover {
+	transform: scale(1);
+	left:220px;
+	transform: rotate(-1.7deg);
+}
+
+.cover19:hover {
+	transform: scale(1);
+	left: 190px;
+	transform: rotate(-1.7deg);
+}
+
+.cover20:hover {
+	transform: scale(1);
+	left: 160px;
+	transform: rotate(-1.7deg);
+}
+
+.cover21:hover {
+	transform: scale(1);
+	left:130px;
+	transform: rotate(-1.7deg);
+}
+
+.cover22:hover {
+	transform: scale(1);
+	left:100px;
+	transform: rotate(-1.7deg);
+}
+
+.cover23:hover {
+	transform: scale(1);
+	left:70px;
+	transform: rotate(-1.7deg);
+}
+
+.cover24:hover {
+	transform: scale(1);
+	left:50px;
+	transform: rotate(-1.7deg);
+}
+.cover25:hover {
+	transform: scale(1);
+	left:30px;
+	transform: rotate(-1.7deg);
+}
+
+.cover26:hover {
+	transform: scale(1.03);
+}
+
+.cover27:hover {
+	transform: scale(1.03);
+}
+
+.cover28:hover {
+	transform: scale(1.03);
+}
+
+.cover29:hover {
+	transform: scale(1.03);
+}
+
+.cover30:hover {
+	transform: scale(1.03);
+}
+
+.cover1 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover2.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 950px;
+}
+
+
+.cover2 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover1.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 920px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover3 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover3.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 890px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover4 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover6.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 860px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover5 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover8.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 860px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover6 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover9.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 830px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover7 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover10.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 800px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover8 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover28.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 770px;
+  	transition: all 0.5s ease-in-out;
+}
+.cover9 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover12.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 740px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover10 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover13.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 710px;
+  	transition: all 0.5s ease-in-out;
+}
+.cover11 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover14.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 680px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover12 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover17.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 650px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover13 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover19.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 620px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover14 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover20.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 590px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover15 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover21.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 560px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover16 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover22.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 530px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover17 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover23.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 500px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover18 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover24.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 470px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover19 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover25.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 440px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover20 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover26.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 410px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover21 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover27.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 380px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover22 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover11.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 350px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover23 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover29.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 320px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover24 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover30.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 290px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover25 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover4.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 260px;
+  	transition: all 0.5s ease-in-out;
+}
+
+
+.cover26 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover5.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 230px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover27 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover7.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 200px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover28 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover15.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 170px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover29 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover16.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 140px;
+  	transition: all 0.5s ease-in-out;
+}
+
+.cover30 {
+	height:550px;
+	width:370px;
+  	background-image: url("images/tggCover18.jpg");
+  	background-size: cover;
+ 	position: absolute;
+  	top: 140px;
+ 	left: 110px;
+  	transition: all 0.5s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+h1 {
+	position: absolute;
+	font-family: typeka, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	top: 45px;
+	left: 610px;
+	width: 200px;
+	color: rgb(0, 0, 0);
+}
+
+
+h2 {
+	position: absolute;
+	font-family: professor, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 18px;
+	top: 22px;
+	left: 650px;
+	width: 200px;
+	color: rgb(0, 0, 0);
+}
+
+.viewcolor {
+	position: absolute;
+	font-family: typeka, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 13px;
+	top: 60px;
+	left: 170px;
+	width: 200px;
+	color: rgb(0, 0, 0);
+}
+
+.shop {
+	position: absolute;
+	font-family: typeka, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 13px;
+	top: 60px;
+	left: 1290px;
+	width: 200px;
+	color: rgb(0, 0, 0);
+}
+
+a {
+	left: 1000px;
+
+}
+
+
+p {
+  width: 180px;
+  position: absolute;
+  top: 560px;
+  left: 625px;
+  color: rgb(255,255,255);
+  font-family: Helvetica;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: medium;
+  text-align: left;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+  /*text-align: left;*/
+  /*text-align: right;*/
+  /*text-align: justify;*/
+}
+
+img {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	width: 100px;
+	opacity: 0;
+}
+
+img:hover{
+	opacity: 1;
+}
+
+
+
+
+
