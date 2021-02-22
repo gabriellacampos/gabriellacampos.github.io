@@ -1,0 +1,1398 @@
+body {
+	background-color: black;
+}
+
+
+.line1 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line1;
+	animation-duration: 6s;
+	animation-iteration-count: infinite;
+	animation-delay: 0s;
+}
+
+@keyframes line1 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line2 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line2;
+	animation-duration: 6.1s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.1s;
+}
+
+@keyframes line2 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line3 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line3;
+	animation-duration: 6.2s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.2s;
+}
+
+@keyframes line3 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line4 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line4;
+	animation-duration: 6.3s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.3s;
+}
+
+@keyframes line4 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line5 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line5;
+	animation-duration: 6.4s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.4s;
+}
+
+@keyframes line5 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line6 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line6;
+	animation-duration: 6.5s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.5s;
+}
+
+@keyframes line6 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+.line7 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line7;
+	animation-duration: 6.6s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.6s;
+}
+
+@keyframes line7 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line8 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line8;
+	animation-duration: 6.7s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.7s;
+}
+
+@keyframes line8 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line9 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line9;
+	animation-duration: 6.8s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.8s;
+}
+
+@keyframes line9 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line10 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line10;
+	animation-duration: 6.9s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.9s;
+}
+
+@keyframes line10 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line11 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line11;
+	animation-duration: 7s;
+	animation-iteration-count: infinite;
+	animation-delay: 1s;
+}
+
+@keyframes line11 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line12 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line12;
+	animation-duration: 7.1s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.1s;
+}
+
+@keyframes line12 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+
+.line13 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line13;
+	animation-duration: 7.2s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.2s;
+}
+
+@keyframes line13 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line14 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line14;
+	animation-duration: 7.3s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.3s;
+}
+
+@keyframes line14 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line15 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line15;
+	animation-duration: 7.4s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.4s;
+}
+
+@keyframes line15 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line16 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line16;
+	animation-duration: 7.5s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.5s;
+}
+
+@keyframes line16 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line17 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line17;
+	animation-duration: 7.6s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.6s;
+}
+
+@keyframes line17 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line18 {
+	position: absolute;
+	top: 300px;
+	left: 100px;
+	width: 2px;
+	height: 70px;
+	background-color: rgb(299,299,299);
+	animation-name: line18;
+	animation-duration: 7.7s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.7s;
+}
+
+@keyframes line18 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 300px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+
+
+
+.line111 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line111;
+	animation-duration: 15s;
+	animation-iteration-count: infinite;
+	animation-delay: 0s;
+}
+
+@keyframes line111 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line222 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line222;
+	animation-duration: 15.1s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.1s;
+}
+
+@keyframes line222 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line333 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line333;
+	animation-duration: 15.2s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.2s;
+}
+
+@keyframes line333 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line444 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line444;
+	animation-duration: 15.3s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.3s;
+}
+
+@keyframes line444 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line555 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line555;
+	animation-duration: 15.4s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.4s;
+}
+
+@keyframes line555 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line666 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line666;
+	animation-duration: 15.5s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.5s;
+}
+
+@keyframes line666 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+.line777 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line777;
+	animation-duration: 15.6s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.6s;
+}
+
+@keyframes line777 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line888 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line888;
+	animation-duration: 15.7s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.7s;
+}
+
+@keyframes line888 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line999 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line999;
+	animation-duration: 15.8s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.8s;
+}
+
+@keyframes line999 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line1010 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1010;
+	animation-duration: 15.9s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.9s;
+}
+
+@keyframes line1010 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line1111 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1111;
+	animation-duration: 16s;
+	animation-iteration-count: infinite;
+	animation-delay: 1s;
+}
+
+@keyframes line1111 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line1212 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1212;
+	animation-duration: 16.1s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.1s;
+}
+
+@keyframes line1212 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+
+.line1313 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1313;
+	animation-duration: 16.2s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.2s;
+}
+
+@keyframes line1313 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line1414 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1414;
+	animation-duration: 16.3s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.3s;
+}
+
+@keyframes line1414 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line1515 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1515;
+	animation-duration: 16.4s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.4s;
+}
+
+@keyframes line1515 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line1616 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1616;
+	animation-duration: 16.5s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.5s;
+}
+
+@keyframes line1616 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line1717 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1717;
+	animation-duration: 16.6s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.6s;
+}
+
+@keyframes line1717 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.line1818 {
+	position: absolute;
+	top: 400px;
+	left: 100px;
+	width: 5px;
+	height: 100px;
+	background-color: rgb(299,299,299);
+	animation-name: line1818;
+	animation-duration: 16.7s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.7s;
+}
+
+@keyframes line1818 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 400px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+
+
+
+.lin1 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin1;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+	animation-delay: 0s;
+}
+
+@keyframes lin1 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin2 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin2;
+	animation-duration: 3.1s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.1s;
+}
+
+@keyframes lin2 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin3 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin3;
+	animation-duration: 3.2s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.2s;
+}
+
+@keyframes lin3 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin4 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin4;
+	animation-duration: 3.3s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.3s;
+}
+
+@keyframes lin4 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin5 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin5;
+	animation-duration: 3.4s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.4s;
+}
+
+@keyframes lin5 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin6 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin6;
+	animation-duration: 3.5s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.5s;
+}
+
+@keyframes lin6 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+.lin7 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin7;
+	animation-duration: 3.6s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.6s;
+}
+
+@keyframes lin7 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin8 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin8;
+	animation-duration: 3.7s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.7s;
+}
+
+@keyframes lin8 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin9 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin9;
+	animation-duration: 3.8s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.8s;
+}
+
+@keyframes lin9 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin10 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin10;
+	animation-duration: 3.9s;
+	animation-iteration-count: infinite;
+	animation-delay: 0.9s;
+}
+
+@keyframes lin10 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin11 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin11;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	animation-delay: 1s;
+}
+
+@keyframes lin11 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin12 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin12;
+	animation-duration: 4.1s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.1s;
+}
+
+@keyframes lin12 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+
+.lin13 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin13;
+	animation-duration: 4.2s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.2s;
+}
+
+@keyframes lin13 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin14 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin14;
+	animation-duration: 4.3s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.3s;
+}
+
+@keyframes lin14 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin15 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin15;
+	animation-duration: 4.4s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.4s;
+}
+
+@keyframes lin15 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin16 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin16;
+	animation-duration: 4.5s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.5s;
+}
+
+@keyframes lin16 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin17 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin17;
+	animation-duration: 4.6s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.6s;
+}
+
+@keyframes lin17 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+}
+
+.lin18 {
+	position: absolute;
+	top: 230px;
+	left: 100px;
+	width: 1px;
+	height: 40px;
+	background-color: rgb(299,299,299);
+	animation-name: lin18;
+	animation-duration: 4.7s;
+	animation-iteration-count: infinite;
+	animation-delay: 1.7s;
+}
+
+@keyframes lin18 {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 230px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
+
+.big {
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	width: 1px;
+	height: 330px;
+	background-color: rgb(299,0,0);
+	animation-name: big;
+	animation-duration: 25s;
+	animation-iteration-count: infinite;
+	animation-delay: 0s;
+}
+
+@keyframes big {
+	0% {
+		left: -10px;
+	}
+	50% {
+		top: 200px;
+	}
+	100% {
+		left: 1500px;
+	}
+
+}
