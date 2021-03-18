@@ -13,7 +13,7 @@ body {
   margin: auto;
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background-color: white;
+  background-image: url("./img/stepBackground");
   overflow: hidden;
 }
 
@@ -26,8 +26,8 @@ body {
   line-height: 30px;
   font-size: 16px;
   text-align: center;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: bold;
+  font-family: video, serif;
+  font-weight: 400;
   color: white;
   opacity: 0;
   z-index: 10;
@@ -41,15 +41,14 @@ body {
 
 .score {
   position: absolute;
-  top: 58px;
-  right: 75px;
-  width: 40px;
-  height: 40px;
+  top: 69px;
+  right: 67px;
+  width: 22px;
+  height: 22px;
   line-height: 40px;
-  background-color: rgb(298, 100, 150);
-  color: white;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: bold;
+  color: black;
+  font-family: video, serif;
+  font-weight: 400;
   font-size: 22px;
   text-align: center;
 }
@@ -126,10 +125,11 @@ body {
 
 .npc.was-interacted {
   opacity: 0;
-  transition: opacity 2500ms linear;
+  scale: 4;
+  transition: opacity 20000ms linear;
   background-image: url("./img/npc-sprite2.png");
   animation-name: spriteSheet;
-  animation-duration: 600ms;  /* set to same number in initialize() as well or it will look weird */
+  animation-duration: 1000ms;  /* set to same number in initialize() as well or it will look weird */
   animation-timing-function: steps(3); /* number of frames in sprite (not counting the final blank space) */
 
 }
