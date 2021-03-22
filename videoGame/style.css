@@ -12,6 +12,7 @@ html {
 body {
   margin: auto;
   position: absolute;
+  border-radius: 5%;
   top: 0; left: 0; right: 0; bottom: 0;
   background-image: url("./img/stepBackground");
   overflow: hidden;
@@ -59,7 +60,7 @@ body {
   margin: auto;
   width: 1024px;
   height: 748px;
-  background-image: url("./img/background-new.png");
+  background-image: url("./img/background-new.gif");
   background-size: contain;
   background-repeat: no-repeat;
   pointer-events: none;
@@ -121,6 +122,14 @@ body {
   animation-timing-function: steps(4); /* number of frames in sprite (not counting the final blank space) */
   animation-iteration-count: infinite;  
   pointer-events: none;
+}
+
+.npc-type-0 {
+  bottom: 420px;
+}
+
+.npc-type-1 {
+  bottom: 145px;
 }
 
 .npc.was-interacted {
